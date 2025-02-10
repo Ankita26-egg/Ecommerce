@@ -58,8 +58,6 @@ Access the web app at http://localhost:3000/
    ![Alt Text](assetREADME.md/networkAccess.png)
 
 
-   ![Alt Text](assetREADME.md/renderDeployBackendSetup.png)
-
 Thanks
 
 
